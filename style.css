@@ -1,0 +1,44 @@
+.learn-html {
+    color: rgb(175, 207, 134);
+}
+
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+
+.user-form {
+    display: block;
+    width: 33%;
+    padding: 2rem;
+    border: 1px solid rgb(175, 207, 134);
+    border-radius: 8px;
+}
+
+.number {
+    width: 30%;
+}
+
+.name {
+    width: 30%;
+}
+
+.email {
+    width: 30%;
+}
+#submit {
+    margin-top: 1rem;
+}
+
+#rumba {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+    opacity: 0.5;
+    z-index: -1;
+}
